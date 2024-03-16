@@ -1,0 +1,65 @@
+=LDR  00000ncm a2200000 a 4500
+=001  ocn00000000
+=003  OCoLC
+=005  20230315180000.0
+=008  210315s2016    xx u   i     n    zxx d
+=040  \$aLIBCAT$beng$cLIBCAT$dOCLCQ$dOCLCO$dOCLCF$dOCLCQ
+=020  \$aEP73508
+=035  \$a(OCoLC)00000000
+=041  0\$aeng
+=050  $aM25.D55$bE3 2016
+=082  04$a786.2/18$qOCoLC
+=100  1\$aDillon, James,$d1950-$4cmp
+=245  10$a'echo the angelus' :$bfor solo piano /$cJames Dillon.
+=260  \$a[Place of publication not identified] :$bEdition Peters,$c2016.
+=300  \$a1 score (11 pages) ;$c31 cm
+=336  \$anotated music$bntm$2rdacontent
+=337  \$aunmediated$bn$2rdamedia
+=338  \$avolume$bnc$2rdacarrier
+=500  \$a"to the memory of Paul Celan (1920-1970) and Hans Bender (1919-1995)."
+=500  \$aDuration: ca. 10 min.
+=500  \$aIncludes performance notes.
+=650  $aPiano music.
+=650  $aPiano music$2fast$0(OCoLC)fst01063435   fst01063403
+=655  $aScores.$2fast$0(OCoLC)fst01692898
+=655  $aScores.$2lcgft
+=655  $aMusic$2lcgft
+=758  \$ihas work:$a'echo the angelus' (NotatedMusic)$1https://id.oclc.org/worldcat/entity/E39PCGg99rBXKXRwPgPBM8bHVK$4https://id.oclc.org/worldcat/ontology/hasWork
+
+041	0#$gger $geng 
+050	#4$aM25.D544 $bE34 2020 
+072	#7$aM $2lcco 
+082	04$a786.2 $223 
+100	1#$aDillon, James, $d1950- $ecomposer. $0http://id.loc.gov/authorities/names/n82215290 
+240	10$aEcho the angelus 
+245	10$a'Echo the angelus' : $bfor solo piano : 2016 / $cJames Dillon. 
+264	#1$aLeipzig ; $aLondon ; $aNew York : $bEdition Peters, $c[2020] 
+264	#4$c©2020 
+300	##$a1 score (40 pages) : $b1 portrait ; $c31 cm. 
+336	##$anotated music $bntm $2rdacontent 
+337	##$aunmediated $bn $2rdamedia 
+338	##$avolume $bnc $2rdacarrier 
+348	##$ascore $2rdafnm 
+348	##$cstaff notation $d1007 $2rdafmn 
+382	01$apiano $n1 $s1 $2lcmpt 
+490	1#$aContemporary 
+500	##$aBiographical notes in English and German. 
+500	##$aPOD, Peters on demand. 
+500	##$aDedicated to the memory of Paul Celan (1920-1970) and Arturo Benedetti Michelangeli (1920-1995). 
+546	##$bStaff notation. 
+650	#0$aPiano music. $0http://id.loc.gov/authorities/subjects/sh85101782 
+650	#6$aPiano, Musique de. 
+650	#7$aMúsica para piano $2embne 
+650	#7$aPiano music $2fast 
+655	#7$aArt music $2fast 
+655	#7$aScores $2fast 
+655	#7$aArt music. $2lcgft $0http://id.loc.gov/authorities/genreForms/gf2014026639 
+655	#7$aScores. $2lcgft $0http://id.loc.gov/authorities/genreForms/gf2014027077 
+655	#7$aMusique savante. $2rvmgf 
+655	#7$aPartitions (Musique) $2rvmgf 
+655	#7$aMúsica culta $2tgfbne 
+655	#7$aPartituras $2tgfbne 
+700	1#$aCelan, Paul, $ehonouree. $0http://id.loc.gov/authorities/names/n50034310 
+700	1#$aMichelangeli, Arturo Benedetti, $d1920-1995, $ehonouree. $0http://id.loc.gov/authorities/names/n80145183 
+830	#0$aContemporary (Edition Peters) $0http://id.loc.gov/authorities/names/no2018083251
+
